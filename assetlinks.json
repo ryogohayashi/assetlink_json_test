@@ -1,8 +1,0 @@
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : {
-    "namespace": "android_app",
-    "package_name": "jp.co.pocke.android.zutsu",
-    "sha256_cert_fingerprints": ["CC:DE:80:B6:44:5E:38:D2:BA:7E:75:7C:C8:EB:1A:71:CA:6C:92:9E:14:13:6D:AA:77:C0:8C:42:F1:4D:72:A4"]
-  }
-}
